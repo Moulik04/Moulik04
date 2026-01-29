@@ -30,8 +30,7 @@ I am a results-driven Data Science student focused on **Predictive Modeling**, *
 ---
 
 ### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/moulikjain](https://linkedin.com/in/moulikjain)
-* **Portfolio:** [Tableau Public Profile]
+* **LinkedIn:** [linkedin.com/in/moulikjain](https://linkedin.com/in/moulikjain04)
 * **Email:** moulikjain04@gmail.com
 
 ---
