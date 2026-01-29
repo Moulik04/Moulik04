@@ -36,4 +36,4 @@ I am a results-driven Data Science student focused on **Predictive Modeling**, *
 ---
 
 ### 🕵️ Fun Fact
-I apply a **"Detective's Mindset"** to Data Science—see my [Forensic Case Reconstruction](https://github.com/Moulik04/FUN-Forensic-Case-Board-Reconstruction) project to see how I link disparate data points to find the ground truth!
+I apply a **"Detective's Mindset"** to Data Science—see my [Forensic Case Reconstruction](https://github.com/Moulik04/FUN-Forensic-Logic-Reconstruction) project to see how I link disparate data points to find the ground truth!
