@@ -1,39 +1,55 @@
 # Hi, I'm Moulik Jain 👋
-### Data Science Student @ Penn State | AI & Machine Learning Enthusiast
+**Data Science & AI Professional | Machine Learning Enthusiast | Analytical Storyteller | Pennsylvania State University**
 
-I am a results-driven Data Science student focused on **Predictive Modeling**, **AI Fairness**, and **Business Analytics**. My work focuses on turning complex, multi-source data into actionable insights and high-performing machine learning models.
+I specialize in transforming complex, multi-source data into actionable insights and predictive models. My work bridges the gap between advanced mathematical theory (Graph Theory) and real-world applications (Sports Analytics & Urban Safety) as well as between technical depth and stakeholder communication.
 
 ---
 
-### 🏆 University Honors & Course Exemplars
-*Three of my projects have been selected by Penn State faculty as permanent course samples for future students:*
+### 🏆 Course Exemplar Highlight
+#### 📘 [Tableau Interactive Dashboard: Instructional Manual](https://github.com/Moulik04/Tableau-Instructional-Design-Manual)
+* **Status:** Selected as a top-tier instructional guide for beginners.
+* **The Goal:** To democratize data visualization by guiding novice analysts through the end-to-end process of building, filtering, and publishing interactive dashboards.
+* **Key Skill:** Technical Communication. I successfully translated high-level Tableau operations (Data Pane, Marks Card, Dashboard Actions) into a step-by-step pedagogical framework.
 
-* **[Football Match Prediction](https://github.com/Moulik04/Football-Match-Prediction-Data-Fusion):** (DS 320) Selected for technical complexity and achieving a **0.78 ROC-AUC** using XGBoost.
-* **[Tableau Instructional Manual](https://github.com/Moulik04/Tableau-Instructional-Design-Manual):** (ENGL 202C) Selected as a departmental standard for teaching dashboard design and technical documentation.
-* **[FC Barcelona Performance Analysis](https://github.com/Moulik04/FC-Barcelona-Reproducible-Performance-Analysis):** (STAT 184) Recognized for best practices in **Reproducible Research** and R Markdown optimization.
+---
+
+### 🚀 Featured Projects
+
+#### ⚽ [Football Match Prediction (Multi-Source Data Fusion)](https://github.com/Moulik04/Football-Match-Prediction-Data-Fusion)
+* **Tech:** Python, XGBoost, Scikit-Learn, Pandas.
+* **The Problem:** Improving match outcome forecasts by combining team-level, player-level, and betting market data.
+* **Insight:** Mastered **Entity Resolution**, harmonizing naming conventions across three disparate databases, and engineered **Rolling Form** features that boosted model ROC-AUC to 0.78.
+
+#### 📍 [LA Crime Visual Intelligence Dashboard](https://github.com/Moulik04/LA-Crime-Data-Visual-Intelligence)
+* **Tech:** Tableau, Audience Analysis, Iterative Prototyping.
+* **The Problem:** Providing new residents with data-driven safety insights to inform housing and commuting decisions.
+* **Insight:** Implemented a full **UX/UI workflow**, from audience persona definition to iterative validation. Discovered a distinct "Noon Spike" in crime frequency through temporal analysis.
+
+#### 🗺️ [Graph Theory & Navigation Systems](https://github.com/Moulik04/Graph-Theory-Navigation-Analysis)
+* **Tech:** Discrete Mathematics, Dijkstra’s Algorithm, A*.
+* **The Problem:** Analyzing the mathematical optimization behind Google Maps' routing and traffic forecasting.
+* **Insight:** Bridged abstract math with production software. I learned to translate real-world constraints (traffic/weather) into **mathematical weights** in a dynamic graph.
+
+#### 🌿 [Pribaikalsky National Park: Systems Analysis](https://github.com/Moulik04/Pribaikalsky-Conservation-Analysis)
+* **Tech:** Climate Data Synthesis, GIS Mapping, Socio-Ecological Modeling.
+* **The Problem:** Assessing the health of Lake Baikal by synthesizing 40 years of climate trends with social policy.
+* **Insight:** Developed **Systems Thinking** skills, analyzing how industrial history and overtourism interact with ecological stressors like surface water warming.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-* **Languages:** Python (Pandas, Scikit-learn, XGBoost), R (Tidyverse, R Markdown), SQL.
-* **AI/ML:** Supervised Learning, NLP (Intent Classification), AI Fairness & Bias Testing, Data Fusion.
-* **Visualization:** Tableau (Advanced), Power BI, Matplotlib, Seaborn.
-* **Tools:** Git/GitHub, Jupyter, Google Colab, Technical Documentation.
+* **Languages:** Python (Pandas, NumPy, Scikit-Learn), R (R Markdown, Tidyverse), SQL.
+* **AI/ML:** XGBoost, Random Forest, NLP (Intent Classification), Neural Networks.
+* **Visualization:** Tableau (Advanced, Interactive Dashboards, Storyboarding), Matplotlib, Seaborn.
+* **Tools:** Git/GitHub, Docker, Google Colab, VS Code, Excel
+* **Specialties:** Data Fusion, Graph Theory, AI Ethics & Fairness, Root Cause Analysis.
 
 ---
 
-### 💼 Current Work & Internships
-* **AI/ML Intern @ Revancer:** Developing NLP-driven chatbot solutions and intent classification logic.
-* **Business Analyst Intern @ Revolta:** Led cross-functional analysis for product development and market trend mapping.
-
----
-
-### 📫 Connect with me:
-* **LinkedIn:** [linkedin.com/in/moulikjain](https://linkedin.com/in/moulikjain04)
+### 📫 Connect with Me
 * **Email:** moulikjain04@gmail.com
+* **LinkedIn:** [Moulik Jain](https://www.linkedin.com/in/moulikjain04/)
 
 ---
-
-### 🕵️ Fun Fact
-I apply a **"Detective's Mindset"** to Data Science—see my [Forensic Case Reconstruction](https://github.com/Moulik04/FUN-Forensic-Logic-Reconstruction) project to see how I link disparate data points to find the ground truth!
+*"I don't just build models; I build narratives that make data understandable and ethical."*
