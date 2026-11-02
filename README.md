@@ -15,10 +15,10 @@ I specialize in transforming complex, multi-source data into actionable insights
 
 ### 🚀 Featured Projects
 
-#### ⚽ [Football Match Prediction (Multi-Source Data Fusion)](https://github.com/Moulik04/Football-Match-Prediction-Data-Fusion)
-* **Tech:** Python, XGBoost, Scikit-Learn, Pandas.
-* **The Problem:** Improving match outcome forecasts by combining team-level, player-level, and betting market data.
-* **Insight:** Mastered **Entity Resolution**, harmonizing naming conventions across three disparate databases, and engineered **Rolling Form** features that boosted model ROC-AUC to 0.78.
+#### ⚽ [Football Match Prediction (Elo, Form and Data Fusion)](https://github.com/Moulik04/Football-Match-Prediction-Data-Fusion)
+* **Tech:** Python, Pandas, Scikit-Learn.
+* **The Problem:** Predicting home win, draw or away win in Europe's top five leagues using only what is known before kick-off, scored on later seasons the model never saw.
+* **Insight:** I rebuilt my own model after finding that its form feature included the match being predicted: computed honestly, that feature is worth a home-win ROC-AUC of 0.64, not 0.78. Elo ratings built from 24 seasons of results do almost all the work, and clubs are matched across sources by the fixtures they played rather than by spelling.
 
 #### 📍 [LA Crime Visual Intelligence Dashboard](https://github.com/Moulik04/LA-Crime-Data-Visual-Intelligence)
 * **Tech:** Tableau, Audience Analysis, Iterative Prototyping.
